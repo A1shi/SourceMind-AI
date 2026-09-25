@@ -723,5 +723,4 @@ Built with Flutter, Python, FastAPI, LangGraph, ChromaDB, and Google Gemini.
 Consider giving the repository a ⭐ on GitHub.
 
 ```
-clearly exposes your **RAG pipeline, vector database, LangGraph workflow, APIs, document ingestion, and fallback architecture**.
-```
+
