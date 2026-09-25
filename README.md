@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🧠 SourceMindAI
 
 > An AI-powered notebook and document assistant built with Flutter, FastAPI, LangGraph, Gemini, and ChromaDB.
